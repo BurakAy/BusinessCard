@@ -15,6 +15,9 @@
     padding: 9px 11px;
     border-radius: 6px;
     text-decoration: none;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
 }
 
 .card--buttons_container .svg-inline--fa {
@@ -22,11 +25,11 @@
 }
 
 .card--buttons_email {
-    color: #000000;
     background: #FFFFFF;
+    color: #374151;
 }
 
 .card--buttons_linkedin {
-    color: #FFFFFF;
     background: #5093E2;
+    color: #FFFFFF;
 }
