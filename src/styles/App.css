@@ -2,4 +2,5 @@
     max-width: 317px;
     background: #1A1B21;
     border-radius: 10px;
+    overflow: hidden;
 }
