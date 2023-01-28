@@ -1,8 +1,9 @@
 .card--buttons_container {
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
     margin-bottom: 33px;
     margin-top: 15px;
+    padding: 0 36px;
 }
 
 .card--buttons_container a {
