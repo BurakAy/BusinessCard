@@ -5,7 +5,9 @@ const CardTitle = () => {
     <div className="card--title_container">
       <h1>Burak Aydemir</h1>
       <h3>Frontend Engineer</h3>
-      <a href="https://burakaydemir.com">burakaydemir.com</a>
+      <a href="https://burakaydemir.com" target="_blank">
+        burakaydemir.com
+      </a>
     </div>
   );
 };
