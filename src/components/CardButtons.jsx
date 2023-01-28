@@ -9,14 +9,18 @@ const CardButtons = () => {
 
   return (
     <div className="card--buttons_container">
-      <button className="card--buttons_email">
+      <a href="mailto:burakadmr@gmail.com" className="card--buttons_email">
         {envelopeIcon}
         Email
-      </button>
-      <button className="card--buttons_linkedin">
+      </a>
+      <a
+        href="https://www.linkedin.com/in/aydemirburak"
+        target="_blank"
+        className="card--buttons_linkedin"
+      >
         {linkedinIcon}
         LinkedIn
-      </button>
+      </a>
     </div>
   );
 };
