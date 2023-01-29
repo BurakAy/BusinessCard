@@ -6,7 +6,7 @@ const CardBody = () => {
       <div className="card--body_section">
         <h3>About</h3>
         <p>
-          I am a Frontend Engineer who enjoys the journey we're taken on during
+          I am a Front End Engineer who enjoys the journey we're taken on during
           the software development life cycle. My favorite phase is
           'development' since I really enjoy writing and debugging code. I like
           to take on challenges because being challenged is when I grow and
